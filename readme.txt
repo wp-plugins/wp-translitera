@@ -1,18 +1,20 @@
 === Plugin Name ===
 Contributors: YurchenkoEV
 Donate link: http://yur4enko.com/
-Tags: spam, mail, protection
+Tags: translate, rus-to-lat, Seo, tag, record, page
 Requires at least: 1.2
 Tested up to: 4.2.2
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Transliteration plugin
+Plug-in for transliteration permanent permalink records , pages, and tag || 
+Плагин для транслитерации постоянных постоянных ссылок записей, страниц и тегов
 
 == Description ==
 
-Transliteration plugin
+Plug-in for transliteration permanent permalink records , pages, and tag || 
+Плагин для транслитерации постоянных постоянных ссылок записей, страниц и тегов
 
 == Installation ==
 
@@ -33,5 +35,3 @@ After update deactivate and activate plugin
 --
 
 == A brief Markdown Example ==
-
-`<?php code(); // goes in backticks ?>`

@@ -2,8 +2,9 @@
 /*
 Plugin Name: WP Translitera
 Plugin URI: http://azbuki.info/viewforum.php?f=32
-Description: Protection from spam through your blog
-Version: 150712
+Description: Plug-in for transliteration permanent permalink records , pages, and tag || 
+ * Плагин для транслитерации постоянных постоянных ссылок записей, страниц и тегов
+Version: 150717
 Author: Evgen Yurchenko
 Author URI: http://yur4enko.com/
 */
